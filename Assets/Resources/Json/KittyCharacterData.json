@@ -1,0 +1,54 @@
+{
+    "kitties": [
+        {
+            "prefabName": "Kitty_1",
+            "kittyNumber": 1,
+            "kittyPrice": 0
+        },
+        {
+            "prefabName": "Kitty_2",
+            "kittyNumber": 2,
+            "kittyPrice": 2
+        },
+        {
+            "prefabName": "Kitty_3",
+            "kittyNumber": 3,
+            "kittyPrice": 2
+        },
+        {
+            "prefabName": "Kitty_4",
+            "kittyNumber": 4,
+            "kittyPrice": 2
+        },
+        {
+            "prefabName": "Kitty_5",
+            "kittyNumber": 5,
+            "kittyPrice": 3
+        },
+        {
+            "prefabName": "Kitty_6",
+            "kittyNumber": 6,
+            "kittyPrice": 3
+        },
+        {
+            "prefabName": "Kitty_7",
+            "kittyNumber": 7,
+            "kittyPrice": 3
+        },
+        {
+            "prefabName": "Kitty_8",
+            "kittyNumber": 8,
+            "kittyPrice": 5
+        },
+        {
+            "prefabName": "Kitty_9",
+            "kittyNumber": 9,
+            "kittyPrice": 5
+        },
+        {
+            "prefabName": "Kitty_10",
+            "kittyNumber": 10,
+            "kittyPrice": 7
+        }
+    ]
+}
